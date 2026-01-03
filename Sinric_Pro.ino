@@ -8,13 +8,13 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "DIY Tech Knowledge"  // Change WIFI_SSID to your WiFi Name.
-#define WIFI_PASS         "Diy@123499"  // Change WIFI_PASS to your WiFi password.
-#define APP_KEY           "0279a2ab-cd2a-4b1d-a27d-42b330bcc65a"   // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx" 
-#define APP_SECRET        "a403b0b2-cdfe-4a8d-a7ef-a45771910dd1-d428f758-0011-4f39-aae5-1846f222e155"  // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx" 
-#define SWITCH_ID_1       "63e489d51bb4e19c1196f887"  // Should look like "5dc1564130xxxxxxxxxxxxxx"
-#define SWITCH_ID_2       "63e50fa91bb4e19c119766b8"
-#define SWITCH_ID_3       "63e4d46e5ec7d92a47063dfd"
+#define WIFI_SSID         "SSID"  // Change WIFI_SSID to your WiFi Name.
+#define WIFI_PASS         "PASS"  // Change WIFI_PASS to your WiFi password.
+#define APP_KEY           "xxx"   // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx" 
+#define APP_SECRET        "xxx"  // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx" 
+#define SWITCH_ID_1       "xxxxxx"  // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define SWITCH_ID_2       "xxxx"
+#define SWITCH_ID_3       "xxxxx"
 
 #define BAUD_RATE         115200                // Change baudrate to your need
 
